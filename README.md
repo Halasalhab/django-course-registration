@@ -13,7 +13,7 @@ This is a Django-based course registration application.
 ### 1. Clone the Repository
 
 ```bash
-git clone [<your-repo-url>](https://github.com/Halasalhab/django-course-registration)
+git clone [https://github.com/Halasalhab/django-course-registration]
 cd django-course-registration
 ```
 
